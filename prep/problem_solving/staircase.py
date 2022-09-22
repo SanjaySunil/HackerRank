@@ -12,7 +12,6 @@ import sys
 # The function accepts INTEGER n as parameter.
 #
 
-
 def staircase(n):
     string = ''
     for i in range(1, n+1):
@@ -22,15 +21,14 @@ def staircase(n):
             tag = tag + '#'
         for _ in range(0, n-i):
             space = space + ' '
-
+        
         if i == n:
             string += space + tag
         else:
             string += space + tag + "\n"
 
     print(string)
-
-
+        
 if __name__ == '__main__':
     n = int(input().strip())
 
