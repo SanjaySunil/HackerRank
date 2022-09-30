@@ -15,6 +15,7 @@ import sys
 #  2. INTEGER_ARRAY b
 #
 
+
 def compareTriplets(a, b):
     alice = 0
     bob = 0
@@ -24,6 +25,7 @@ def compareTriplets(a, b):
         elif a[index] < b[index]:
             bob = bob + 1
     return [alice, bob]
+
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')

@@ -7,17 +7,19 @@ import re
 import sys
 
 #
-# Complete the 'aVeryBigSum' function below.
+# Complete the 'simpleArraySum' function below.
 #
-# The function is expected to return a LONG_INTEGER.
-# The function accepts LONG_INTEGER_ARRAY ar as parameter.
+# The function is expected to return an INTEGER.
+# The function accepts INTEGER_ARRAY ar as parameter.
 #
 
-def aVeryBigSum(ar):
-    sum = 0
+
+def simpleArraySum(ar):
+    val = 0
     for i in ar:
-        sum = sum + i
-    return sum
+        val = val + i
+    return val
+
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
@@ -26,7 +28,7 @@ if __name__ == '__main__':
 
     ar = list(map(int, input().rstrip().split()))
 
-    result = aVeryBigSum(ar)
+    result = simpleArraySum(ar)
 
     fptr.write(str(result) + '\n')
 
