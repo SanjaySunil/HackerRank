@@ -1,5 +1,3 @@
-This repository contains the challenges of [algorithms](https://www.hackerrank.com/domains/algorithms) and [data structure](https://www.hackerrank.com/domains/data-structures) of the site HackerRank.
-
 This repository contains my solutions to the HackerRank [algorithms]() and [data structure]() problems.
 
 ## Algorithms domain

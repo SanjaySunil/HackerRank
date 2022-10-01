@@ -1,17 +1,18 @@
-<div style='float: center; text-align: center; margin-bottom: 20px' align="center">
+<h1 align="center">
   <a href='https://www.hackerrank.com/sanjaysunil' target="_blank">
   <img width="400px" src="https://blog.hackerrank.com/wp-content/uploads/2017/04/logo_HRwordmark2700x670_2-1.png" />
   </a>
-  <h3>My solutions to problems on HackerRank.</h3>
 </div>
+
+<h3 align='center'>Solutions to problems on HackerRank</h3>
+<br/>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-10-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Score-96-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
-
-This repository contains the challenges of [algorithms](https://www.hackerrank.com/domains/algorithms) and [data structure](https://www.hackerrank.com/domains/data-structures) of the site HackerRank.
+<br/>
 
 This repository contains my solutions to the HackerRank [algorithms]() and [data structure]() problems.
 
