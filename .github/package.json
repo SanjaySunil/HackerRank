@@ -2,9 +2,9 @@
   "name": "hackerrank",
   "description": "my solutions",
   "version": "1.0.0",
-  "main": "readme.mjs",
+  "main": "make_readme.mjs",
   "scripts": {
-    "build": "node readme.mjs"
+    "build": "node make_readme.mjs"
   },
   "repository": {
     "type": "git",
