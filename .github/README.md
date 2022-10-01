@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href='https://www.hackerrank.com/sanjaysunil' target="_blank">
-  <img width="400px" style="margin-top: 50px" src="https://blog.hackerrank.com/wp-content/uploads/2017/04/logo_HRwordmark2700x670_2-1.png" />
+  <img width="400px" style="margin-top: 75px" src="https://blog.hackerrank.com/wp-content/uploads/2017/04/logo_HRwordmark2700x670_2-1.png" />
   </a>
 </div>
 
