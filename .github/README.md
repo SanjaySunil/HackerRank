@@ -1,11 +1,11 @@
-<h1 align="center">
+<h1 align="center" style="margin: 20px">
   <a href='https://www.hackerrank.com/sanjaysunil' target="_blank">
   <img width="400px" src="https://blog.hackerrank.com/wp-content/uploads/2017/04/logo_HRwordmark2700x670_2-1.png" />
   </a>
 </div>
 
 <h3 align='center'>Solutions to problems on HackerRank</h3>
-<br/>
+
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-10-brightgreen.svg">
