@@ -1,0 +1,23 @@
+{
+  "name": "hackerrank",
+  "description": "my solutions",
+  "version": "1.0.0",
+  "main": "readme.mjs",
+  "scripts": {
+    "build": "node readme.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanjaySunil/HackerRank.git"
+  },
+  "author": "Sanjay Sunil",
+  "license": "MIT",
+  "dependencies": {
+    "parse-markdown-table": "^0.0.6",
+    "readme-components": "^1.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/SanjaySunil/HackerRank/issues"
+  },
+  "homepage": "https://github.com/SanjaySunil/HackerRank#readme"
+}
