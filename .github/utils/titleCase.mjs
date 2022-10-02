@@ -1,0 +1,12 @@
+const titleCase = (str) => {
+  var splitStr = str.toLowerCase().split(" ");
+  for (var i = 0; i < splitStr.length; i++) {
+    if (splitStr[i] !== "and" && splitStr[i] !== "the") {
+      splitStr[i] =
+        splitStr[i].charAt(0).toUpperCase() + splitStr[i].substring(1);
+    }
+  }
+  return splitStr.join(" ");
+}
+
+export default titleCase;
