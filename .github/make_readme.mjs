@@ -48,7 +48,7 @@ Object.keys(problem_solving).forEach(function (domain) {
 });
 
 let markdown_tables =
-  "This repository contains my solutions to the HackerRank [algorithms]() and [data structure]() problems.\n\n";
+  "This repository contains my solutions to the HackerRank `Problem Solving` course. The topic is split into two domains, [algorithms](https://www.hackerrank.com/domains/algorithms) and [data structures](https://www.hackerrank.com/domains/data-structures).\n\n";
 Object.keys(problem_solving).forEach(function (domain) {
   markdown_tables =
     markdown_tables + `## ${titleCase(domain.replace("_", " "))}` + "\n";

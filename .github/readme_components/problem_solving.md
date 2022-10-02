@@ -1,4 +1,4 @@
-This repository contains my solutions to the HackerRank [algorithms]() and [data structure]() problems.
+This repository contains my solutions to the HackerRank `Problem Solving` course. The topic is split into two domains, [algorithms](https://www.hackerrank.com/domains/algorithms) and [data structures](https://www.hackerrank.com/domains/data-structures).
 
 ## Algorithms
 ### Warmup
