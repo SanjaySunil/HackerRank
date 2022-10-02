@@ -21,7 +21,7 @@ Object.keys(problem_solving).forEach(function (domain) {
           console.log(problem);
           sub_domain_table.push([
             titleCase(difficulty),
-            titleCase(problem.replaceAll("_", " ")),
+            `[${titleCase(problem.replaceAll("_", " "))}](https://www.hackerrank.com/challenges/${problem.replaceAll("_", "-")}/problem)`,
             titleCase(
               `[${problem}.py](/problem_solving/${domain}/${sub_domain}/${difficulty}/${problem}.py)`
             ),
