@@ -1,0 +1,25 @@
+{
+  "name": "hackerrank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "dependencies": {
+    "inquirer": "^9.1.2"
+  },
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "bin": {
+    "hackerrank": "./index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanjaySunil/HackerRank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanjaySunil/HackerRank/issues"
+  },
+  "homepage": "https://github.com/SanjaySunil/HackerRank#readme"
+}

@@ -2,16 +2,54 @@
   "algorithms": {
     "warmup": {
       "easy": {
-        "solve_me_first": [1, 1],
-        "simple_array_sum": [10, 10],
-        "compare_the_triplets": [10, 10],
-        "a_very_big_sum": [10, 10],
-        "diagonal_difference": [10, 10],
-        "plus_minus": [10, 10],
-        "staircase": [10, 10],
-        "mini-max_sum": [10, 10],
-        "birthday_cake_candles": [10, 10],
-        "time_conversion": [15, 15]
+        "solve_me_first": [
+          1,
+          1
+        ],
+        "simple_array_sum": [
+          10,
+          10
+        ],
+        "compare_the_triplets": [
+          10,
+          10
+        ],
+        "a_very_big_sum": [
+          10,
+          10
+        ],
+        "diagonal_difference": [
+          10,
+          10
+        ],
+        "plus_minus": [
+          10,
+          10
+        ],
+        "staircase": [
+          10,
+          10
+        ],
+        "mini-max_sum": [
+          10,
+          10
+        ],
+        "birthday_cake_candles": [
+          10,
+          10
+        ],
+        "time_conversion": [
+          15,
+          15
+        ]
+      }
+    },
+    "implementation": {
+      "easy": {
+        "grading_students": [
+          10,
+          10
+        ]
       }
     }
   }
