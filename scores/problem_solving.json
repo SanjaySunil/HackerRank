@@ -49,6 +49,14 @@
         "grading_students": [
           10,
           10
+        ],
+        "apple_and_orange": [
+          10,
+          10
+        ],
+        "number_line_jumps": [
+          10,
+          10
         ]
       }
     }
