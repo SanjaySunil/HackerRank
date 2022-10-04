@@ -15,3 +15,8 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [birthday_cake_candles.py](/problem_solving/algorithms/warmup/easy/birthday_cake_candles.py) | 10             | 10        |
 | Easy       | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)             | [time_conversion.py](/problem_solving/algorithms/warmup/easy/time_conversion.py)             | 15             | 15        |
 
+### Implementation
+| Difficulty | Problem                                                                            | Solution                                                                                   | Score Obtained | Max Score |
+| ---------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------- | --------- |
+| Easy       | [Grading Students](https://www.hackerrank.com/challenges/grading-students/problem) | [grading_students.py](/problem_solving/algorithms/implementation/easy/grading_students.py) | 10             | 10        |
+

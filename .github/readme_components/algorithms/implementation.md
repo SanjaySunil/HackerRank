@@ -1,2 +1,3 @@
-| Difficulty | Problem | Solution | Score Obtained | Max Score |
-| ---------- | ------- | -------- | -------------- | --------- |
+| Difficulty | Problem                                                                            | Solution                                                                                   | Score Obtained | Max Score |
+| ---------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------- | --------- |
+| Easy       | [Grading Students](https://www.hackerrank.com/challenges/grading-students/problem) | [grading_students.py](/problem_solving/algorithms/implementation/easy/grading_students.py) | 10             | 10        |

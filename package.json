@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.mjs",
   "dependencies": {
-    "inquirer": "^9.1.2"
-  },
-  "scripts": {
-    "start": "node index.mjs"
+    "inquirer": "^9.1.2",
+    "markdown-table": "^3.0.2",
+    "parse-markdown-table": "^0.0.6",
+    "readme-components": "^1.2.0"
   },
   "bin": {
-    "hackerrank": "./index.mjs"
+    "score": "./add_score.mjs",
+    "readme": "./make_readme.mjs"
   },
   "repository": {
     "type": "git",

@@ -8,8 +8,8 @@
 <h3 align='center'>Solutions to problems on HackerRank</h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-10-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-96-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-11-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-106-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -30,4 +30,9 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Mini-max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)                   | [mini-max_sum.py](/problem_solving/algorithms/warmup/easy/mini-max_sum.py)                   | 10             | 10        |
 | Easy       | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [birthday_cake_candles.py](/problem_solving/algorithms/warmup/easy/birthday_cake_candles.py) | 10             | 10        |
 | Easy       | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)             | [time_conversion.py](/problem_solving/algorithms/warmup/easy/time_conversion.py)             | 15             | 15        |
+
+### Implementation
+| Difficulty | Problem                                                                            | Solution                                                                                   | Score Obtained | Max Score |
+| ---------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------- | --------- |
+| Easy       | [Grading Students](https://www.hackerrank.com/challenges/grading-students/problem) | [grading_students.py](/problem_solving/algorithms/implementation/easy/grading_students.py) | 10             | 10        |
 
