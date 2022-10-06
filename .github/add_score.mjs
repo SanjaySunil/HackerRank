@@ -2,7 +2,7 @@
 import fs from "fs";
 import inquirer from "inquirer";
 
-let data = fs.readFileSync("scores/problem_solving.json");
+let data = fs.readFileSync("../scores/problem_solving.json");
 
 let json = JSON.parse(data);
 
@@ -82,11 +82,11 @@ get("domain", json).then((domain) => {
                 Number(out_of),
               ];
               fs.writeFileSync(
-                "scores/problem_solving.json",
+                "../scores/problem_solving.json",
                 JSON.stringify(json, null, 2)
               );
               fs.writeFileSync(
-                `problem_solving/${domain}/${sub_domain}/${difficulty}/${problem}.py`,
+                `../problem_solving/${domain}/${sub_domain}/${difficulty}/${problem}.py`,
                 code
               );
               console.log("Finished.");
