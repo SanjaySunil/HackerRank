@@ -47,21 +47,50 @@ const input = (key) => {
   });
 };
 
+const code = () => {
+  return new Promise((resolve, reject) => {
+    const questions = [
+      {
+        type: "editor",
+        name: "code",
+        message: "Please copy and paste your code solution: ",
+        validate(text) {
+          if (text.split("\n").length < 2) {
+            return "Must be at least 2 lines.";
+          }
+          return true;
+        },
+        waitUserInput: true,
+      },
+    ];
+
+    inquirer.prompt(questions).then((answers) => {
+      resolve(answers["code"]);
+    });
+  });
+};
+
 get("domain", json).then((domain) => {
   get("sub_domain", json[domain]).then((sub_domain) => {
     get("difficulty", json[domain][sub_domain]).then((difficulty) => {
       input("problem name").then((problem) => {
         input("score").then((score) => {
           input("out of").then((out_of) => {
-            json[domain][sub_domain][difficulty][problem] = [
-              Number(score),
-              Number(out_of),
-            ];
-            fs.writeFileSync(
-              "scores/problem_solving.json",
-              JSON.stringify(json, null, 2)
-            );
-            console.log("Finished.");
+            code().then((code) => {
+              json[domain][sub_domain][difficulty][problem] = [
+                Number(score),
+                Number(out_of),
+              ];
+              fs.writeFileSync(
+                "scores/problem_solving.json",
+                JSON.stringify(json, null, 2)
+              );
+              fs.writeFileSync(
+                `problem_solving/${domain}/${sub_domain}/${difficulty}/${problem}.py`,
+                code
+              );
+              console.log("Finished.");
+            });
           });
         });
       });

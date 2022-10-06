@@ -19,7 +19,6 @@ Object.keys(problem_solving).forEach(function (domain) {
     ) {
       Object.keys(problem_solving[domain][sub_domain][difficulty]).forEach(
         function (problem) {
-          console.log(problem);
           sub_domain_table.push([
             titleCase(difficulty),
             `[${titleCase(problem.replaceAll("_", " "))}](https://www.hackerrank.com/challenges/${problem.replaceAll("_", "-")}/problem)`,
@@ -43,7 +42,6 @@ Object.keys(problem_solving).forEach(function (domain) {
       );
     });
     let data = markdownTable(sub_domain_table);
-    console.log(sub_domain_table);
     fs.writeFileSync(`./.github/readme_components/algorithms/${sub_domain}.md`, data);
   });
 });
@@ -75,3 +73,4 @@ template.use_component("./.github/readme_components/shields.md", {
 template.use_component("./.github/readme_components/problem_solving.md");
 
 template.make_readme();
+console.log("Updated readme.")
