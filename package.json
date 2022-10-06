@@ -6,7 +6,6 @@
   "dependencies": {
     "inquirer": "^9.1.2",
     "markdown-table": "^3.0.2",
-    "parse-markdown-table": "^0.0.6",
     "readme-components": "^1.2.0"
   },
   "bin": {
