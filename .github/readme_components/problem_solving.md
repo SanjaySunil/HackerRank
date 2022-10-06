@@ -22,3 +22,51 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)   | [apple_and_orange.py](/problem_solving/algorithms/implementation/easy/apple_and_orange.py)   | 10             | 10        |
 | Easy       | [Number Line Jumps](https://www.hackerrank.com/challenges/number-line-jumps/problem) | [number_line_jumps.py](/problem_solving/algorithms/implementation/easy/number_line_jumps.py) | 10             | 10        |
 
+### Strings
+| Difficulty | Problem | Solution | Score Obtained | Max Score |
+| ---------- | ------- | -------- | -------------- | --------- |
+
+### Sorting
+| Difficulty | Problem | Solution | Score Obtained | Max Score |
+| ---------- | ------- | -------- | -------------- | --------- |
+
+### Search
+| Difficulty | Problem | Solution | Score Obtained | Max Score |
+| ---------- | ------- | -------- | -------------- | --------- |
+
+### Graph_theory
+| Difficulty | Problem | Solution | Score Obtained | Max Score |
+| ---------- | ------- | -------- | -------------- | --------- |
+
+### Greedy
+| Difficulty | Problem | Solution | Score Obtained | Max Score |
+| ---------- | ------- | -------- | -------------- | --------- |
+
+### Dynamic_programming
+| Difficulty | Problem | Solution | Score Obtained | Max Score |
+| ---------- | ------- | -------- | -------------- | --------- |
+
+### Constructive_algorithms
+| Difficulty | Problem | Solution | Score Obtained | Max Score |
+| ---------- | ------- | -------- | -------------- | --------- |
+
+### Bit_manipulation
+| Difficulty | Problem | Solution | Score Obtained | Max Score |
+| ---------- | ------- | -------- | -------------- | --------- |
+
+### Recursion
+| Difficulty | Problem | Solution | Score Obtained | Max Score |
+| ---------- | ------- | -------- | -------------- | --------- |
+
+### Game_theory
+| Difficulty | Problem | Solution | Score Obtained | Max Score |
+| ---------- | ------- | -------- | -------------- | --------- |
+
+### Np_complete
+| Difficulty | Problem | Solution | Score Obtained | Max Score |
+| ---------- | ------- | -------- | -------------- | --------- |
+
+### Debugging
+| Difficulty | Problem | Solution | Score Obtained | Max Score |
+| ---------- | ------- | -------- | -------------- | --------- |
+
