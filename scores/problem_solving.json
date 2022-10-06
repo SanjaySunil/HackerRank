@@ -67,6 +67,10 @@
         "camelcase": [
           15,
           15
+        ],
+        "strong_password": [
+          15,
+          15
         ]
       },
       "medium": {},
