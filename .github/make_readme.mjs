@@ -58,7 +58,7 @@ Object.keys(problem_solving).forEach(function (domain) {
         encoding: "utf-8",
       }
     );
-    const file_header = `### ${titleCase(sub_domain.replace(".md", ""))}`;
+    const file_header = `### ${titleCase(sub_domain.replace(".md", "").replace("_", " "))}`;
     markdown_tables = markdown_tables + file_header + "\n" + markdown + "\n\n";
   });
 });

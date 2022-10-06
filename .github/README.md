@@ -50,7 +50,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Difficulty | Problem | Solution | Score Obtained | Max Score |
 | ---------- | ------- | -------- | -------------- | --------- |
 
-### Graph_theory
+### Graph Theory
 | Difficulty | Problem | Solution | Score Obtained | Max Score |
 | ---------- | ------- | -------- | -------------- | --------- |
 
@@ -58,15 +58,15 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Difficulty | Problem | Solution | Score Obtained | Max Score |
 | ---------- | ------- | -------- | -------------- | --------- |
 
-### Dynamic_programming
+### Dynamic Programming
 | Difficulty | Problem | Solution | Score Obtained | Max Score |
 | ---------- | ------- | -------- | -------------- | --------- |
 
-### Constructive_algorithms
+### Constructive Algorithms
 | Difficulty | Problem | Solution | Score Obtained | Max Score |
 | ---------- | ------- | -------- | -------------- | --------- |
 
-### Bit_manipulation
+### Bit Manipulation
 | Difficulty | Problem | Solution | Score Obtained | Max Score |
 | ---------- | ------- | -------- | -------------- | --------- |
 
@@ -74,11 +74,11 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Difficulty | Problem | Solution | Score Obtained | Max Score |
 | ---------- | ------- | -------- | -------------- | --------- |
 
-### Game_theory
+### Game Theory
 | Difficulty | Problem | Solution | Score Obtained | Max Score |
 | ---------- | ------- | -------- | -------------- | --------- |
 
-### Np_complete
+### Np Complete
 | Difficulty | Problem | Solution | Score Obtained | Max Score |
 | ---------- | ------- | -------- | -------------- | --------- |
 
