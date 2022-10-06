@@ -8,8 +8,8 @@
 <h3 align='center'>Solutions to problems on HackerRank</h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-13-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-126-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-15-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-156-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -39,8 +39,10 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Number Line Jumps](https://www.hackerrank.com/challenges/number-line-jumps/problem) | [number_line_jumps.py](/problem_solving/algorithms/implementation/easy/number_line_jumps.py) | 10             | 10        |
 
 ### Strings
-| Difficulty | Problem | Solution | Score Obtained | Max Score |
-| ---------- | ------- | -------- | -------------- | --------- |
+| Difficulty | Problem                                                                          | Solution                                                                          | Score Obtained | Max Score |
+| ---------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------- | --------- |
+| Easy       | [Camelcase](https://www.hackerrank.com/challenges/camelcase/problem)             | [camelcase.py](/problem_solving/algorithms/strings/easy/camelcase.py)             | 15             | 15        |
+| Easy       | [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem) | [strong_password.py](/problem_solving/algorithms/strings/easy/strong_password.py) | 15             | 15        |
 
 ### Sorting
 | Difficulty | Problem | Solution | Score Obtained | Max Score |

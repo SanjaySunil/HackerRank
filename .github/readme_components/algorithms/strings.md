@@ -1,2 +1,4 @@
-| Difficulty | Problem | Solution | Score Obtained | Max Score |
-| ---------- | ------- | -------- | -------------- | --------- |
+| Difficulty | Problem                                                                          | Solution                                                                          | Score Obtained | Max Score |
+| ---------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------- | --------- |
+| Easy       | [Camelcase](https://www.hackerrank.com/challenges/camelcase/problem)             | [camelcase.py](/problem_solving/algorithms/strings/easy/camelcase.py)             | 15             | 15        |
+| Easy       | [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem) | [strong_password.py](/problem_solving/algorithms/strings/easy/strong_password.py) | 15             | 15        |
