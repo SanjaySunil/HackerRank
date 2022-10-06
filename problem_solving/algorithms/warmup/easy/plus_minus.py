@@ -1,18 +1,4 @@
 #!/bin/python3
-
-import math
-import os
-import random
-import re
-import sys
-
-#
-# Complete the 'plusMinus' function below.
-#
-# The function accepts INTEGER_ARRAY arr as parameter.
-#
-
-
 def plusMinus(arr):
     positive = 0
     negative = 0
@@ -28,11 +14,3 @@ def plusMinus(arr):
     print(float(positive/len(arr)))
     print(float(negative/len(arr)))
     print(float(zero/len(arr)))
-
-
-if __name__ == '__main__':
-    n = int(input().strip())
-
-    arr = list(map(int, input().rstrip().split()))
-
-    plusMinus(arr)
