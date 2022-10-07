@@ -16,12 +16,13 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)             | [time_conversion.py](/problem_solving/algorithms/warmup/easy/time_conversion.py)             | 15             | 15        |
 
 ### Implementation
-| Difficulty | Problem                                                                              | Solution                                                                                     | Score Obtained | Max Score |
-| ---------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | -------------- | --------- |
-| Easy       | [Grading Students](https://www.hackerrank.com/challenges/grading-students/problem)   | [grading_students.py](/problem_solving/algorithms/implementation/easy/grading_students.py)   | 10             | 10        |
-| Easy       | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)   | [apple_and_orange.py](/problem_solving/algorithms/implementation/easy/apple_and_orange.py)   | 10             | 10        |
-| Easy       | [Number Line Jumps](https://www.hackerrank.com/challenges/number-line-jumps/problem) | [number_line_jumps.py](/problem_solving/algorithms/implementation/easy/number_line_jumps.py) | 10             | 10        |
-| Easy       | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)   | [between_two_sets.py](/problem_solving/algorithms/implementation/easy/between_two_sets.py)   | 10             | 10        |
+| Difficulty | Problem                                                                                    | Solution                                                                                           | Score Obtained | Max Score |
+| ---------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | -------------- | --------- |
+| Easy       | [Grading Students](https://www.hackerrank.com/challenges/grading-students/problem)         | [grading_students.py](/problem_solving/algorithms/implementation/easy/grading_students.py)         | 10             | 10        |
+| Easy       | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)         | [apple_and_orange.py](/problem_solving/algorithms/implementation/easy/apple_and_orange.py)         | 10             | 10        |
+| Easy       | [Number Line Jumps](https://www.hackerrank.com/challenges/number-line-jumps/problem)       | [number_line_jumps.py](/problem_solving/algorithms/implementation/easy/number_line_jumps.py)       | 10             | 10        |
+| Easy       | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)         | [between_two_sets.py](/problem_solving/algorithms/implementation/easy/between_two_sets.py)         | 10             | 10        |
+| Easy       | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-the-records/problem) | [breaking_the_records.py](/problem_solving/algorithms/implementation/easy/breaking_the_records.py) | 10             | 10        |
 
 ### Strings
 | Difficulty | Problem                                                                          | Solution                                                                          | Score Obtained | Max Score |
