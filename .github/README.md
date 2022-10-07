@@ -8,8 +8,8 @@
 <h3 align='center'>Solutions to problems on HackerRank</h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-15-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-156-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-16-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-166-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -37,6 +37,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Grading Students](https://www.hackerrank.com/challenges/grading-students/problem)   | [grading_students.py](/problem_solving/algorithms/implementation/easy/grading_students.py)   | 10             | 10        |
 | Easy       | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)   | [apple_and_orange.py](/problem_solving/algorithms/implementation/easy/apple_and_orange.py)   | 10             | 10        |
 | Easy       | [Number Line Jumps](https://www.hackerrank.com/challenges/number-line-jumps/problem) | [number_line_jumps.py](/problem_solving/algorithms/implementation/easy/number_line_jumps.py) | 10             | 10        |
+| Easy       | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)   | [between_two_sets.py](/problem_solving/algorithms/implementation/easy/between_two_sets.py)   | 10             | 10        |
 
 ### Strings
 | Difficulty | Problem                                                                          | Solution                                                                          | Score Obtained | Max Score |

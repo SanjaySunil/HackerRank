@@ -57,6 +57,10 @@
         "number_line_jumps": [
           10,
           10
+        ],
+        "between_two_sets": [
+          10,
+          10
         ]
       },
       "medium": {},
