@@ -24,6 +24,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)         | [between_two_sets.py](/problem_solving/algorithms/implementation/easy/between_two_sets.py)         | 10             | 10        |
 | Easy       | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-the-records/problem) | [breaking_the_records.py](/problem_solving/algorithms/implementation/easy/breaking_the_records.py) | 10             | 10        |
 | Easy       | [Cat and A Mouse](https://www.hackerrank.com/challenges/cat-and-a-mouse/problem)           | [cat_and_a_mouse.py](/problem_solving/algorithms/implementation/easy/cat_and_a_mouse.py)           | 15             | 15        |
+| Easy       | [the Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)           | [the_hurdle_race.py](/problem_solving/algorithms/implementation/easy/the_hurdle_race.py)           | 15             | 15        |
 
 ### Strings
 | Difficulty | Problem                                                                          | Solution                                                                          | Score Obtained | Max Score |
