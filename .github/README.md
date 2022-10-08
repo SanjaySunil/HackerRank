@@ -8,8 +8,8 @@
 <h3 align='center'>Solutions to problems on HackerRank</h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-17-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-176-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-18-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-191-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -39,6 +39,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Number Line Jumps](https://www.hackerrank.com/challenges/number-line-jumps/problem)       | [number_line_jumps.py](/problem_solving/algorithms/implementation/easy/number_line_jumps.py)       | 10             | 10        |
 | Easy       | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)         | [between_two_sets.py](/problem_solving/algorithms/implementation/easy/between_two_sets.py)         | 10             | 10        |
 | Easy       | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-the-records/problem) | [breaking_the_records.py](/problem_solving/algorithms/implementation/easy/breaking_the_records.py) | 10             | 10        |
+| Easy       | [Cat and A Mouse](https://www.hackerrank.com/challenges/cat-and-a-mouse/problem)           | [cat_and_a_mouse.py](/problem_solving/algorithms/implementation/easy/cat_and_a_mouse.py)           | 15             | 15        |
 
 ### Strings
 | Difficulty | Problem                                                                          | Solution                                                                          | Score Obtained | Max Score |
