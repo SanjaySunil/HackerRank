@@ -81,6 +81,10 @@
         "divisible_sum_pairs": [
           10,
           10
+        ],
+        "bill_division": [
+          10,
+          10
         ]
       },
       "medium": {},
