@@ -8,8 +8,8 @@
 <h3 align='center'>Solutions to problems on HackerRank</h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-20-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-226-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-21-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-236-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -42,6 +42,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Cat and A Mouse](https://www.hackerrank.com/challenges/cat-and-a-mouse/problem)           | [cat_and_a_mouse.py](/problem_solving/algorithms/implementation/easy/cat_and_a_mouse.py)           | 15             | 15        |
 | Easy       | [the Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)           | [the_hurdle_race.py](/problem_solving/algorithms/implementation/easy/the_hurdle_race.py)           | 15             | 15        |
 | Easy       | [Designer Pdf Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)   | [designer_pdf_viewer.py](/problem_solving/algorithms/implementation/easy/designer_pdf_viewer.py)   | 20             | 20        |
+| Easy       | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)   | [divisible_sum_pairs.py](/problem_solving/algorithms/implementation/easy/divisible_sum_pairs.py)   | 10             | 10        |
 
 ### Strings
 | Difficulty | Problem                                                                          | Solution                                                                          | Score Obtained | Max Score |

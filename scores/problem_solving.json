@@ -77,6 +77,10 @@
         "designer_pdf_viewer": [
           20,
           20
+        ],
+        "divisible_sum_pairs": [
+          10,
+          10
         ]
       },
       "medium": {},
