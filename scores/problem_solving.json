@@ -85,6 +85,10 @@
         "bill_division": [
           10,
           10
+        ],
+        "viral_advertising": [
+          15,
+          15
         ]
       },
       "medium": {},

@@ -10,3 +10,4 @@
 | Easy       | [Designer Pdf Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)   | [designer_pdf_viewer.py](/problem_solving/algorithms/implementation/easy/designer_pdf_viewer.py)   | 20             | 20        |
 | Easy       | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)   | [divisible_sum_pairs.py](/problem_solving/algorithms/implementation/easy/divisible_sum_pairs.py)   | 10             | 10        |
 | Easy       | [Bill Division](https://www.hackerrank.com/challenges/bill-division/problem)               | [bill_division.py](/problem_solving/algorithms/implementation/easy/bill_division.py)               | 10             | 10        |
+| Easy       | [Viral Advertising](https://www.hackerrank.com/challenges/viral-advertising/problem)       | [viral_advertising.py](/problem_solving/algorithms/implementation/easy/viral_advertising.py)       | 15             | 15        |
