@@ -114,7 +114,12 @@
       "hard": {}
     },
     "search": {
-      "easy": {},
+      "easy": {
+        "ice_cream_parlor": [
+          30,
+          30
+        ]
+      },
       "medium": {},
       "hard": {}
     },

@@ -8,8 +8,8 @@
 <h3 align='center'>Solutions to problems on HackerRank</h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-23-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-261-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-24-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-291-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -57,8 +57,9 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | ---------- | ------- | -------- | -------------- | --------- |
 
 ### Search
-| Difficulty | Problem | Solution | Score Obtained | Max Score |
-| ---------- | ------- | -------- | -------------- | --------- |
+| Difficulty | Problem                                                                            | Solution                                                                           | Score Obtained | Max Score |
+| ---------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------- | --------- |
+| Easy       | [Ice Cream Parlor](https://www.hackerrank.com/challenges/ice-cream-parlor/problem) | [ice_cream_parlor.py](/problem_solving/algorithms/search/easy/ice_cream_parlor.py) | 30             | 30        |
 
 ### Graph Theory
 | Difficulty | Problem | Solution | Score Obtained | Max Score |
