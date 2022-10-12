@@ -89,6 +89,10 @@
         "viral_advertising": [
           15,
           15
+        ],
+        "sequence_equation": [
+          20,
+          20
         ]
       },
       "medium": {},
