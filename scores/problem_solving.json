@@ -117,7 +117,12 @@
       "hard": {}
     },
     "sorting": {
-      "easy": {},
+      "easy": {
+        "tutorial-intro": [
+          30,
+          30
+        ]
+      },
       "medium": {},
       "hard": {}
     },

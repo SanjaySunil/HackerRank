@@ -1,2 +1,3 @@
-| Difficulty | Problem | Solution | Score Obtained | Max Score |
-| ---------- | ------- | -------- | -------------- | --------- |
+| Difficulty | Problem                                                                        | Solution                                                                        | Score Obtained | Max Score |
+| ---------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- | -------------- | --------- |
+| Easy       | [Tutorial-intro](https://www.hackerrank.com/challenges/tutorial-intro/problem) | [tutorial-intro.py](/problem_solving/algorithms/sorting/easy/tutorial-intro.py) | 30             | 30        |

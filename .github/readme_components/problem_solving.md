@@ -39,8 +39,9 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem) | [strong_password.py](/problem_solving/algorithms/strings/easy/strong_password.py) | 15             | 15        |
 
 ### Sorting
-| Difficulty | Problem | Solution | Score Obtained | Max Score |
-| ---------- | ------- | -------- | -------------- | --------- |
+| Difficulty | Problem                                                                        | Solution                                                                        | Score Obtained | Max Score |
+| ---------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- | -------------- | --------- |
+| Easy       | [Tutorial-intro](https://www.hackerrank.com/challenges/tutorial-intro/problem) | [tutorial-intro.py](/problem_solving/algorithms/sorting/easy/tutorial-intro.py) | 30             | 30        |
 
 ### Search
 | Difficulty | Problem                                                                            | Solution                                                                           | Score Obtained | Max Score |
