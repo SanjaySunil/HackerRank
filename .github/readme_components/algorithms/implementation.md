@@ -12,3 +12,4 @@
 | Easy       | [Bill Division](https://www.hackerrank.com/challenges/bill-division/problem)               | [bill_division.py](/problem_solving/algorithms/implementation/easy/bill_division.py)               | 10             | 10        |
 | Easy       | [Viral Advertising](https://www.hackerrank.com/challenges/viral-advertising/problem)       | [viral_advertising.py](/problem_solving/algorithms/implementation/easy/viral_advertising.py)       | 15             | 15        |
 | Easy       | [Sequence Equation](https://www.hackerrank.com/challenges/sequence-equation/problem)       | [sequence_equation.py](/problem_solving/algorithms/implementation/easy/sequence_equation.py)       | 20             | 20        |
+| Easy       | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)                 | [utopian_tree.py](/problem_solving/algorithms/implementation/easy/utopian_tree.py)                 | 20             | 20        |
