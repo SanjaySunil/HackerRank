@@ -8,8 +8,8 @@
 <h3 align='center'>Solutions to problems on HackerRank</h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-27-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-361-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-28-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-376-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -32,21 +32,22 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)             | [time_conversion.py](/problem_solving/algorithms/warmup/easy/time_conversion.py)             | 15             | 15        |
 
 ### Implementation
-| Difficulty | Problem                                                                                    | Solution                                                                                           | Score Obtained | Max Score |
-| ---------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | -------------- | --------- |
-| Easy       | [Grading Students](https://www.hackerrank.com/challenges/grading-students/problem)         | [grading_students.py](/problem_solving/algorithms/implementation/easy/grading_students.py)         | 10             | 10        |
-| Easy       | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)         | [apple_and_orange.py](/problem_solving/algorithms/implementation/easy/apple_and_orange.py)         | 10             | 10        |
-| Easy       | [Number Line Jumps](https://www.hackerrank.com/challenges/number-line-jumps/problem)       | [number_line_jumps.py](/problem_solving/algorithms/implementation/easy/number_line_jumps.py)       | 10             | 10        |
-| Easy       | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)         | [between_two_sets.py](/problem_solving/algorithms/implementation/easy/between_two_sets.py)         | 10             | 10        |
-| Easy       | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-the-records/problem) | [breaking_the_records.py](/problem_solving/algorithms/implementation/easy/breaking_the_records.py) | 10             | 10        |
-| Easy       | [Cat and A Mouse](https://www.hackerrank.com/challenges/cat-and-a-mouse/problem)           | [cat_and_a_mouse.py](/problem_solving/algorithms/implementation/easy/cat_and_a_mouse.py)           | 15             | 15        |
-| Easy       | [the Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)           | [the_hurdle_race.py](/problem_solving/algorithms/implementation/easy/the_hurdle_race.py)           | 15             | 15        |
-| Easy       | [Designer Pdf Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)   | [designer_pdf_viewer.py](/problem_solving/algorithms/implementation/easy/designer_pdf_viewer.py)   | 20             | 20        |
-| Easy       | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)   | [divisible_sum_pairs.py](/problem_solving/algorithms/implementation/easy/divisible_sum_pairs.py)   | 10             | 10        |
-| Easy       | [Bill Division](https://www.hackerrank.com/challenges/bill-division/problem)               | [bill_division.py](/problem_solving/algorithms/implementation/easy/bill_division.py)               | 10             | 10        |
-| Easy       | [Viral Advertising](https://www.hackerrank.com/challenges/viral-advertising/problem)       | [viral_advertising.py](/problem_solving/algorithms/implementation/easy/viral_advertising.py)       | 15             | 15        |
-| Easy       | [Sequence Equation](https://www.hackerrank.com/challenges/sequence-equation/problem)       | [sequence_equation.py](/problem_solving/algorithms/implementation/easy/sequence_equation.py)       | 20             | 20        |
-| Easy       | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)                 | [utopian_tree.py](/problem_solving/algorithms/implementation/easy/utopian_tree.py)                 | 20             | 20        |
+| Difficulty | Problem                                                                                                    | Solution                                                                                                           | Score Obtained | Max Score |
+| ---------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | -------------- | --------- |
+| Easy       | [Grading Students](https://www.hackerrank.com/challenges/grading-students/problem)                         | [grading_students.py](/problem_solving/algorithms/implementation/easy/grading_students.py)                         | 10             | 10        |
+| Easy       | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)                         | [apple_and_orange.py](/problem_solving/algorithms/implementation/easy/apple_and_orange.py)                         | 10             | 10        |
+| Easy       | [Number Line Jumps](https://www.hackerrank.com/challenges/number-line-jumps/problem)                       | [number_line_jumps.py](/problem_solving/algorithms/implementation/easy/number_line_jumps.py)                       | 10             | 10        |
+| Easy       | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)                         | [between_two_sets.py](/problem_solving/algorithms/implementation/easy/between_two_sets.py)                         | 10             | 10        |
+| Easy       | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-the-records/problem)                 | [breaking_the_records.py](/problem_solving/algorithms/implementation/easy/breaking_the_records.py)                 | 10             | 10        |
+| Easy       | [Cat and A Mouse](https://www.hackerrank.com/challenges/cat-and-a-mouse/problem)                           | [cat_and_a_mouse.py](/problem_solving/algorithms/implementation/easy/cat_and_a_mouse.py)                           | 15             | 15        |
+| Easy       | [the Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)                           | [the_hurdle_race.py](/problem_solving/algorithms/implementation/easy/the_hurdle_race.py)                           | 15             | 15        |
+| Easy       | [Designer Pdf Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)                   | [designer_pdf_viewer.py](/problem_solving/algorithms/implementation/easy/designer_pdf_viewer.py)                   | 20             | 20        |
+| Easy       | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)                   | [divisible_sum_pairs.py](/problem_solving/algorithms/implementation/easy/divisible_sum_pairs.py)                   | 10             | 10        |
+| Easy       | [Bill Division](https://www.hackerrank.com/challenges/bill-division/problem)                               | [bill_division.py](/problem_solving/algorithms/implementation/easy/bill_division.py)                               | 10             | 10        |
+| Easy       | [Viral Advertising](https://www.hackerrank.com/challenges/viral-advertising/problem)                       | [viral_advertising.py](/problem_solving/algorithms/implementation/easy/viral_advertising.py)                       | 15             | 15        |
+| Easy       | [Sequence Equation](https://www.hackerrank.com/challenges/sequence-equation/problem)                       | [sequence_equation.py](/problem_solving/algorithms/implementation/easy/sequence_equation.py)                       | 20             | 20        |
+| Easy       | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)                                 | [utopian_tree.py](/problem_solving/algorithms/implementation/easy/utopian_tree.py)                                 | 20             | 20        |
+| Easy       | [Beautiful-days-at-the-movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | [beautiful-days-at-the-movies.py](/problem_solving/algorithms/implementation/easy/beautiful-days-at-the-movies.py) | 15             | 15        |
 
 ### Strings
 | Difficulty | Problem                                                                          | Solution                                                                          | Score Obtained | Max Score |
