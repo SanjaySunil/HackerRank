@@ -33,6 +33,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)                                 | [utopian_tree.py](/problem_solving/algorithms/implementation/easy/utopian_tree.py)                                 | 20             | 20        |
 | Easy       | [Beautiful-days-at-the-movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | [beautiful-days-at-the-movies.py](/problem_solving/algorithms/implementation/easy/beautiful-days-at-the-movies.py) | 15             | 15        |
 | Easy       | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)                                   | [find_digits.py](/problem_solving/algorithms/implementation/easy/find_digits.py)                                   | 25             | 25        |
+| Easy       | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)                           | [angry_professor.py](/problem_solving/algorithms/implementation/easy/angry_professor.py)                           | 20             | 20        |
 
 ### Strings
 | Difficulty | Problem                                                                          | Solution                                                                          | Score Obtained | Max Score |
