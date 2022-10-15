@@ -32,6 +32,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Sequence Equation](https://www.hackerrank.com/challenges/sequence-equation/problem)                       | [sequence_equation.py](/problem_solving/algorithms/implementation/easy/sequence_equation.py)                       | 20             | 20        |
 | Easy       | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)                                 | [utopian_tree.py](/problem_solving/algorithms/implementation/easy/utopian_tree.py)                                 | 20             | 20        |
 | Easy       | [Beautiful-days-at-the-movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | [beautiful-days-at-the-movies.py](/problem_solving/algorithms/implementation/easy/beautiful-days-at-the-movies.py) | 15             | 15        |
+| Easy       | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)                                   | [find_digits.py](/problem_solving/algorithms/implementation/easy/find_digits.py)                                   | 25             | 25        |
 
 ### Strings
 | Difficulty | Problem                                                                          | Solution                                                                          | Score Obtained | Max Score |
