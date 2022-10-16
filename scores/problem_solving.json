@@ -109,6 +109,10 @@
         "angry_professor": [
           20,
           20
+        ],
+        "subarray_division": [
+          10,
+          10
         ]
       },
       "medium": {},
