@@ -38,6 +38,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)                           | [migratory_birds.py](/problem_solving/algorithms/implementation/easy/migratory_birds.py)                           | 10             | 10        |
 | Easy       | [Equality In A Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)                   | [equality_in_a_array.py](/problem_solving/algorithms/implementation/easy/equality_in_a_array.py)                   | 20             | 20        |
 | Easy       | [Cut the Sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)                             | [cut_the_sticks.py](/problem_solving/algorithms/implementation/easy/cut_the_sticks.py)                             | 25             | 25        |
+| Easy       | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)                         | [counting_valleys.py](/problem_solving/algorithms/implementation/easy/counting_valleys.py)                         | 15             | 15        |
 
 ### Strings
 | Difficulty | Problem                                                                          | Solution                                                                          | Score Obtained | Max Score |
