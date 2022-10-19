@@ -5,7 +5,7 @@
   </a>
 </div>
 
-<h3 align='center'>Solutions to problems on HackerRank</h3>
+<h3 align='center'>Solutions to the <a href="https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving">Problem Solving</a> topic on <a href="https://www.hackerrank.com/">HackerRank</a></h3>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-35-brightgreen.svg">

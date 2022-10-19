@@ -5,4 +5,4 @@
   </a>
 </div>
 
-<h3 align='center'>Solutions to problems on HackerRank</h3>
+<h3 align='center'>Solutions to the <a href="https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving">Problem Solving</a> topic on <a href="https://www.hackerrank.com/">HackerRank</a></h3>
