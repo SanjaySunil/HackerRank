@@ -8,8 +8,8 @@
 <h3 align='center'>Solutions to problems on HackerRank</h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-32-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-441-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-33-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-461-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -52,6 +52,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)                           | [angry_professor.py](/problem_solving/algorithms/implementation/easy/angry_professor.py)                           | 20             | 20        |
 | Easy       | [Subarray Division](https://www.hackerrank.com/challenges/subarray-division/problem)                       | [subarray_division.py](/problem_solving/algorithms/implementation/easy/subarray_division.py)                       | 10             | 10        |
 | Easy       | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)                           | [migratory_birds.py](/problem_solving/algorithms/implementation/easy/migratory_birds.py)                           | 10             | 10        |
+| Easy       | [Equality In A Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)                   | [equality_in_a_array.py](/problem_solving/algorithms/implementation/easy/equality_in_a_array.py)                   | 20             | 20        |
 
 ### Strings
 | Difficulty | Problem                                                                          | Solution                                                                          | Score Obtained | Max Score |

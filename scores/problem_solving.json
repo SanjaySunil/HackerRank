@@ -117,6 +117,10 @@
         "migratory_birds": [
           10,
           10
+        ],
+        "equality_in_a_array": [
+          20,
+          20
         ]
       },
       "medium": {},
