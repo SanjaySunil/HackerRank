@@ -121,6 +121,10 @@
         "equality_in_a_array": [
           20,
           20
+        ],
+        "cut_the_sticks": [
+          25,
+          25
         ]
       },
       "medium": {},
