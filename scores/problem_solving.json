@@ -135,6 +135,10 @@
         "strong_password": [
           15,
           15
+        ],
+        "alternating_characters": [
+          20,
+          20
         ]
       },
       "medium": {},

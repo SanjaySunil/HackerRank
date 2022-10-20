@@ -8,8 +8,8 @@
 <h3 align='center'>Solutions to problems on HackerRank</h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-33-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-461-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-34-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-481-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -55,10 +55,11 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Equality In A Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)                   | [equality_in_a_array.py](/problem_solving/algorithms/implementation/easy/equality_in_a_array.py)                   | 20             | 20        |
 
 ### Strings
-| Difficulty | Problem                                                                          | Solution                                                                          | Score Obtained | Max Score |
-| ---------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------- | --------- |
-| Easy       | [Camelcase](https://www.hackerrank.com/challenges/camelcase/problem)             | [camelcase.py](/problem_solving/algorithms/strings/easy/camelcase.py)             | 15             | 15        |
-| Easy       | [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem) | [strong_password.py](/problem_solving/algorithms/strings/easy/strong_password.py) | 15             | 15        |
+| Difficulty | Problem                                                                                        | Solution                                                                                        | Score Obtained | Max Score |
+| ---------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------- | --------- |
+| Easy       | [Camelcase](https://www.hackerrank.com/challenges/camelcase/problem)                           | [camelcase.py](/problem_solving/algorithms/strings/easy/camelcase.py)                           | 15             | 15        |
+| Easy       | [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)               | [strong_password.py](/problem_solving/algorithms/strings/easy/strong_password.py)               | 15             | 15        |
+| Easy       | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem) | [alternating_characters.py](/problem_solving/algorithms/strings/easy/alternating_characters.py) | 20             | 20        |
 
 ### Sorting
 | Difficulty | Problem                                                                        | Solution                                                                        | Score Obtained | Max Score |
