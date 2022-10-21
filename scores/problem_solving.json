@@ -143,6 +143,10 @@
         "pangrams": [
           20,
           20
+        ],
+        "super_reduced_string": [
+          10,
+          10
         ]
       },
       "medium": {},
