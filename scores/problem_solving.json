@@ -139,6 +139,10 @@
         "alternating_characters": [
           20,
           20
+        ],
+        "pangrams": [
+          20,
+          20
         ]
       },
       "medium": {},
