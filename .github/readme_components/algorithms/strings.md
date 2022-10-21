@@ -5,3 +5,4 @@
 | Easy       | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem) | [alternating_characters.py](/problem_solving/algorithms/strings/easy/alternating_characters.py) | 20             | 20        |
 | Easy       | [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)                             | [pangrams.py](/problem_solving/algorithms/strings/easy/pangrams.py)                             | 20             | 20        |
 | Easy       | [Super Reduced String](https://www.hackerrank.com/challenges/super-reduced-string/problem)     | [super_reduced_string.py](/problem_solving/algorithms/strings/easy/super_reduced_string.py)     | 10             | 10        |
+| Easy       | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem)             | [mars_exploration.py](/problem_solving/algorithms/strings/easy/mars_exploration.py)             | 15             | 15        |

@@ -147,6 +147,10 @@
         "super_reduced_string": [
           10,
           10
+        ],
+        "mars_exploration": [
+          15,
+          15
         ]
       },
       "medium": {},
