@@ -163,6 +163,10 @@
         "mars_exploration": [
           15,
           15
+        ],
+        "funny_string": [
+          25,
+          25
         ]
       },
       "medium": {},
