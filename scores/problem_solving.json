@@ -198,7 +198,12 @@
       "hard": {}
     },
     "greedy": {
-      "easy": {},
+      "easy": {
+        "marcs_cakewalk": [
+          15,
+          15
+        ]
+      },
       "medium": {},
       "hard": {}
     },

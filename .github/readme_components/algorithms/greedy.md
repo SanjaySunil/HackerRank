@@ -1,2 +1,3 @@
-| Difficulty | Problem | Solution | Score Obtained | Max Score |
-| ---------- | ------- | -------- | -------------- | --------- |
+| Difficulty | Problem                                                                        | Solution                                                                       | Score Obtained | Max Score |
+| ---------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | -------------- | --------- |
+| Easy       | [Marcs Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk/problem) | [marcs_cakewalk.py](/problem_solving/algorithms/greedy/easy/marcs_cakewalk.py) | 15             | 15        |
