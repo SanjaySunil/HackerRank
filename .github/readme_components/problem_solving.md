@@ -51,6 +51,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Super Reduced String](https://www.hackerrank.com/challenges/super-reduced-string/problem)     | [super_reduced_string.py](/problem_solving/algorithms/strings/easy/super_reduced_string.py)     | 10             | 10        |
 | Easy       | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem)             | [mars_exploration.py](/problem_solving/algorithms/strings/easy/mars_exploration.py)             | 15             | 15        |
 | Easy       | [Funny String](https://www.hackerrank.com/challenges/funny-string/problem)                     | [funny_string.py](/problem_solving/algorithms/strings/easy/funny_string.py)                     | 25             | 25        |
+| Easy       | [Gemstones](https://www.hackerrank.com/challenges/gemstones/problem)                           | [gemstones.py](/problem_solving/algorithms/strings/easy/gemstones.py)                           | 20             | 20        |
 
 ### Sorting
 | Difficulty | Problem                                                                        | Solution                                                                        | Score Obtained | Max Score |

@@ -167,6 +167,10 @@
         "funny_string": [
           25,
           25
+        ],
+        "gemstones": [
+          20,
+          20
         ]
       },
       "medium": {},
