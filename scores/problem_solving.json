@@ -133,6 +133,10 @@
         "electronics_shop": [
           15,
           15
+        ],
+        "sock_merchant": [
+          10,
+          10
         ]
       },
       "medium": {},

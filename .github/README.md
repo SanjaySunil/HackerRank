@@ -8,8 +8,8 @@
 <h3 align='center'>Solutions to the <a href="https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving">Problem Solving</a> topic on <a href="https://www.hackerrank.com/">HackerRank</a></h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-43-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-641-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-44-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-651-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -56,6 +56,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Cut the Sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)                             | [cut_the_sticks.py](/problem_solving/algorithms/implementation/easy/cut_the_sticks.py)                             | 25             | 25        |
 | Easy       | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)                         | [counting_valleys.py](/problem_solving/algorithms/implementation/easy/counting_valleys.py)                         | 15             | 15        |
 | Easy       | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)                         | [electronics_shop.py](/problem_solving/algorithms/implementation/easy/electronics_shop.py)                         | 15             | 15        |
+| Easy       | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)                               | [sock_merchant.py](/problem_solving/algorithms/implementation/easy/sock_merchant.py)                               | 10             | 10        |
 
 ### Strings
 | Difficulty | Problem                                                                                        | Solution                                                                                        | Score Obtained | Max Score |
