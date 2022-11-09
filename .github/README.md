@@ -8,8 +8,8 @@
 <h3 align='center'>Solutions to the <a href="https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving">Problem Solving</a> topic on <a href="https://www.hackerrank.com/">HackerRank</a></h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-46-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-706-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-47-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-731-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -71,6 +71,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Gemstones](https://www.hackerrank.com/challenges/gemstones/problem)                           | [gemstones.py](/problem_solving/algorithms/strings/easy/gemstones.py)                           | 20             | 20        |
 | Easy       | [Game-of-thrones](https://www.hackerrank.com/challenges/game-of-thrones/problem)               | [game-of-thrones.py](/problem_solving/algorithms/strings/easy/game-of-thrones.py)               | 30             | 30        |
 | Easy       | [String Construction](https://www.hackerrank.com/challenges/string-construction/problem)       | [string_construction.py](/problem_solving/algorithms/strings/easy/string_construction.py)       | 25             | 25        |
+| Easy       | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)                       | [two_strings.py](/problem_solving/algorithms/strings/easy/two_strings.py)                       | 25             | 25        |
 
 ### Sorting
 | Difficulty | Problem                                                                        | Solution                                                                        | Score Obtained | Max Score |

@@ -183,6 +183,10 @@
         "string_construction": [
           25,
           25
+        ],
+        "two_strings": [
+          25,
+          25
         ]
       },
       "medium": {},
