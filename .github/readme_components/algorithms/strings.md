@@ -9,3 +9,4 @@
 | Easy       | [Funny String](https://www.hackerrank.com/challenges/funny-string/problem)                     | [funny_string.py](/problem_solving/algorithms/strings/easy/funny_string.py)                     | 25             | 25        |
 | Easy       | [Gemstones](https://www.hackerrank.com/challenges/gemstones/problem)                           | [gemstones.py](/problem_solving/algorithms/strings/easy/gemstones.py)                           | 20             | 20        |
 | Easy       | [Game-of-thrones](https://www.hackerrank.com/challenges/game-of-thrones/problem)               | [game-of-thrones.py](/problem_solving/algorithms/strings/easy/game-of-thrones.py)               | 30             | 30        |
+| Easy       | [String Construction](https://www.hackerrank.com/challenges/string-construction/problem)       | [string_construction.py](/problem_solving/algorithms/strings/easy/string_construction.py)       | 25             | 25        |

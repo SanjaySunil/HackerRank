@@ -179,6 +179,10 @@
         "game-of-thrones": [
           30,
           30
+        ],
+        "string_construction": [
+          25,
+          25
         ]
       },
       "medium": {},
