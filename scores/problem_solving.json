@@ -30,7 +30,7 @@
           10,
           10
         ],
-        "mini-max_sum": [
+        "mini_max_sum": [
           10,
           10
         ],
@@ -98,7 +98,7 @@
           20,
           20
         ],
-        "beautiful-days-at-the-movies": [
+        "beautiful_days_at_the_movies": [
           15,
           15
         ],
@@ -258,6 +258,68 @@
       "hard": {}
     },
     "debugging": {
+      "easy": {},
+      "medium": {},
+      "hard": {}
+    }
+  },
+  "data_structures": {
+    "arrays": {
+      "easy": {
+        "array_ds": [
+          10,
+          10
+        ]
+      },
+      "medium": {},
+      "hard": {}
+    },
+    "linked_list": {
+      "easy": {},
+      "medium": {},
+      "hard": {}
+    },
+    "trees": {
+      "easy": {},
+      "medium": {},
+      "hard": {}
+    },
+    "balanced_trees": {
+      "easy": {},
+      "medium": {},
+      "hard": {}
+    },
+    "stacks": {
+      "easy": {},
+      "medium": {},
+      "hard": {}
+    },
+    "queues": {
+      "easy": {},
+      "medium": {},
+      "hard": {}
+    },
+    "heap": {
+      "easy": {},
+      "medium": {},
+      "hard": {}
+    },
+    "disjoint_set": {
+      "easy": {},
+      "medium": {},
+      "hard": {}
+    },
+    "multiple_choice": {
+      "easy": {},
+      "medium": {},
+      "hard": {}
+    },
+    "trie": {
+      "easy": {},
+      "medium": {},
+      "hard": {}
+    },
+    "advanced": {
       "easy": {},
       "medium": {},
       "hard": {}

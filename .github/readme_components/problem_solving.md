@@ -11,7 +11,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)     | [diagonal_difference.py](/problem_solving/algorithms/warmup/easy/diagonal_difference.py)     | 10             | 10        |
 | Easy       | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)                       | [plus_minus.py](/problem_solving/algorithms/warmup/easy/plus_minus.py)                       | 10             | 10        |
 | Easy       | [Staircase](https://www.hackerrank.com/challenges/staircase/problem)                         | [staircase.py](/problem_solving/algorithms/warmup/easy/staircase.py)                         | 10             | 10        |
-| Easy       | [Mini-max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)                   | [mini-max_sum.py](/problem_solving/algorithms/warmup/easy/mini-max_sum.py)                   | 10             | 10        |
+| Easy       | [Mini Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)                   | [mini_max_sum.py](/problem_solving/algorithms/warmup/easy/mini_max_sum.py)                   | 10             | 10        |
 | Easy       | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [birthday_cake_candles.py](/problem_solving/algorithms/warmup/easy/birthday_cake_candles.py) | 10             | 10        |
 | Easy       | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)             | [time_conversion.py](/problem_solving/algorithms/warmup/easy/time_conversion.py)             | 15             | 15        |
 
@@ -31,7 +31,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Viral Advertising](https://www.hackerrank.com/challenges/viral-advertising/problem)                       | [viral_advertising.py](/problem_solving/algorithms/implementation/easy/viral_advertising.py)                       | 15             | 15        |
 | Easy       | [Sequence Equation](https://www.hackerrank.com/challenges/sequence-equation/problem)                       | [sequence_equation.py](/problem_solving/algorithms/implementation/easy/sequence_equation.py)                       | 20             | 20        |
 | Easy       | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)                                 | [utopian_tree.py](/problem_solving/algorithms/implementation/easy/utopian_tree.py)                                 | 20             | 20        |
-| Easy       | [Beautiful-days-at-the-movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | [beautiful-days-at-the-movies.py](/problem_solving/algorithms/implementation/easy/beautiful-days-at-the-movies.py) | 15             | 15        |
+| Easy       | [Beautiful Days At the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | [beautiful_days_at_the_movies.py](/problem_solving/algorithms/implementation/easy/beautiful_days_at_the_movies.py) | 15             | 15        |
 | Easy       | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)                                   | [find_digits.py](/problem_solving/algorithms/implementation/easy/find_digits.py)                                   | 25             | 25        |
 | Easy       | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)                           | [angry_professor.py](/problem_solving/algorithms/implementation/easy/angry_professor.py)                           | 20             | 20        |
 | Easy       | [Subarray Division](https://www.hackerrank.com/challenges/subarray-division/problem)                       | [subarray_division.py](/problem_solving/algorithms/implementation/easy/subarray_division.py)                       | 10             | 10        |
@@ -101,6 +101,52 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | ---------- | ------- | -------- | -------------- | --------- |
 
 ### Debugging
+| Difficulty | Problem | Solution | Score Obtained | Max Score |
+| ---------- | ------- | -------- | -------------- | --------- |
+
+## Data Structures
+### Arrays
+| Difficulty | Problem                                                            | Solution                                                                | Score Obtained | Max Score |
+| ---------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------- | -------------- | --------- |
+| Easy       | [Array Ds](https://www.hackerrank.com/challenges/array-ds/problem) | [array_ds.py](/problem_solving/data_structures/arrays/easy/array_ds.py) | 10             | 10        |
+
+### Linked List
+| Difficulty | Problem | Solution | Score Obtained | Max Score |
+| ---------- | ------- | -------- | -------------- | --------- |
+
+### Trees
+| Difficulty | Problem | Solution | Score Obtained | Max Score |
+| ---------- | ------- | -------- | -------------- | --------- |
+
+### Balanced Trees
+| Difficulty | Problem | Solution | Score Obtained | Max Score |
+| ---------- | ------- | -------- | -------------- | --------- |
+
+### Stacks
+| Difficulty | Problem | Solution | Score Obtained | Max Score |
+| ---------- | ------- | -------- | -------------- | --------- |
+
+### Queues
+| Difficulty | Problem | Solution | Score Obtained | Max Score |
+| ---------- | ------- | -------- | -------------- | --------- |
+
+### Heap
+| Difficulty | Problem | Solution | Score Obtained | Max Score |
+| ---------- | ------- | -------- | -------------- | --------- |
+
+### Disjoint Set
+| Difficulty | Problem | Solution | Score Obtained | Max Score |
+| ---------- | ------- | -------- | -------------- | --------- |
+
+### Multiple Choice
+| Difficulty | Problem | Solution | Score Obtained | Max Score |
+| ---------- | ------- | -------- | -------------- | --------- |
+
+### Trie
+| Difficulty | Problem | Solution | Score Obtained | Max Score |
+| ---------- | ------- | -------- | -------------- | --------- |
+
+### Advanced
 | Difficulty | Problem | Solution | Score Obtained | Max Score |
 | ---------- | ------- | -------- | -------------- | --------- |
 

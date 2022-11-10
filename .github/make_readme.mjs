@@ -42,7 +42,7 @@ Object.keys(problem_solving).forEach(function (domain) {
       );
     });
     let data = markdownTable(sub_domain_table);
-    fs.writeFileSync(`readme_components/algorithms/${sub_domain}.md`, data);
+    fs.writeFileSync(`readme_components/${domain}/${sub_domain}.md`, data);
   });
 });
 
