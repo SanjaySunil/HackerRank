@@ -273,6 +273,10 @@
         "array_left_rotation": [
           20,
           20
+        ],
+        "2d_array": [
+          15,
+          15
         ]
       },
       "medium": {},

@@ -110,6 +110,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | ---------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | -------------- | --------- |
 | Easy       | [Array Ds](https://www.hackerrank.com/challenges/array-ds/problem)                       | [array_ds.py](/problem_solving/data_structures/arrays/easy/array_ds.py)                       | 10             | 10        |
 | Easy       | [Array Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) | [array_left_rotation.py](/problem_solving/data_structures/arrays/easy/array_left_rotation.py) | 20             | 20        |
+| Easy       | [2d Array](https://www.hackerrank.com/challenges/2d-array/problem)                       | [2d_array.py](/problem_solving/data_structures/arrays/easy/2d_array.py)                       | 15             | 15        |
 
 ### Linked List
 | Difficulty | Problem | Solution | Score Obtained | Max Score |
