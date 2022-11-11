@@ -41,6 +41,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)                         | [counting_valleys.py](/problem_solving/algorithms/implementation/easy/counting_valleys.py)                         | 15             | 15        |
 | Easy       | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)                         | [electronics_shop.py](/problem_solving/algorithms/implementation/easy/electronics_shop.py)                         | 15             | 15        |
 | Easy       | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)                               | [sock_merchant.py](/problem_solving/algorithms/implementation/easy/sock_merchant.py)                               | 10             | 10        |
+| Medium     | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)               | [extra_long_factorials.py](/problem_solving/algorithms/implementation/medium/extra_long_factorials.py)             | 20             | 20        |
 
 ### Strings
 | Difficulty | Problem                                                                                        | Solution                                                                                        | Score Obtained | Max Score |

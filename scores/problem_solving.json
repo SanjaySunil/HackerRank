@@ -139,7 +139,12 @@
           10
         ]
       },
-      "medium": {},
+      "medium": {
+        "extra_long_factorials": [
+          20,
+          20
+        ]
+      },
       "hard": {}
     },
     "strings": {
