@@ -8,8 +8,8 @@
 <h3 align='center'>Solutions to the <a href="https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving">Problem Solving</a> topic on <a href="https://www.hackerrank.com/">HackerRank</a></h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-48-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-741-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-49-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-761-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -122,9 +122,10 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 
 ## Data Structures
 ### Arrays
-| Difficulty | Problem                                                            | Solution                                                                | Score Obtained | Max Score |
-| ---------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------- | -------------- | --------- |
-| Easy       | [Array Ds](https://www.hackerrank.com/challenges/array-ds/problem) | [array_ds.py](/problem_solving/data_structures/arrays/easy/array_ds.py) | 10             | 10        |
+| Difficulty | Problem                                                                                  | Solution                                                                                      | Score Obtained | Max Score |
+| ---------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | -------------- | --------- |
+| Easy       | [Array Ds](https://www.hackerrank.com/challenges/array-ds/problem)                       | [array_ds.py](/problem_solving/data_structures/arrays/easy/array_ds.py)                       | 10             | 10        |
+| Easy       | [Array Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) | [array_left_rotation.py](/problem_solving/data_structures/arrays/easy/array_left_rotation.py) | 20             | 20        |
 
 ### Linked List
 | Difficulty | Problem | Solution | Score Obtained | Max Score |

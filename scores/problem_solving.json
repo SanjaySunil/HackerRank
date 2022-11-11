@@ -269,6 +269,10 @@
         "array_ds": [
           10,
           10
+        ],
+        "array_left_rotation": [
+          20,
+          20
         ]
       },
       "medium": {},
