@@ -296,7 +296,12 @@
       "hard": {}
     },
     "linked_list": {
-      "easy": {},
+      "easy": {
+        "print_the_elements_of_a_linked_list": [
+          5,
+          5
+        ]
+      },
       "medium": {},
       "hard": {}
     },

@@ -1,2 +1,3 @@
-| Difficulty | Problem | Solution | Score Obtained | Max Score |
-| ---------- | ------- | -------- | -------------- | --------- |
+| Difficulty | Problem                                                                                                                  | Solution                                                                                                                           | Score Obtained | Max Score |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | -------------- | --------- |
+| Easy       | [Print the Elements Of A Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | [print_the_elements_of_a_linked_list.py](/problem_solving/data_structures/linked_list/easy/print_the_elements_of_a_linked_list.py) | 5              | 5         |
