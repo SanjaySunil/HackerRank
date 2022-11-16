@@ -8,8 +8,8 @@
 <h3 align='center'>Solutions to the <a href="https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving">Problem Solving</a> topic on <a href="https://www.hackerrank.com/">HackerRank</a></h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-54-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-836-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-55-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-841-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -135,6 +135,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Difficulty | Problem                                                                                                                  | Solution                                                                                                                           | Score Obtained | Max Score |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | -------------- | --------- |
 | Easy       | [Print the Elements Of A Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | [print_the_elements_of_a_linked_list.py](/problem_solving/data_structures/linked_list/easy/print_the_elements_of_a_linked_list.py) | 5              | 5         |
+| Easy       | [Compare Two Linked Lists](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem)                       | [compare_two_linked_lists.py](/problem_solving/data_structures/linked_list/easy/compare_two_linked_lists.py)                       | 5              | 5         |
 
 ### Trees
 | Difficulty | Problem | Solution | Score Obtained | Max Score |
