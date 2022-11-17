@@ -93,8 +93,9 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | ---------- | ------- | -------- | -------------- | --------- |
 
 ### Recursion
-| Difficulty | Problem | Solution | Score Obtained | Max Score |
-| ---------- | ------- | -------- | -------------- | --------- |
+| Difficulty | Problem                                                                                  | Solution                                                                                      | Score Obtained | Max Score |
+| ---------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | -------------- | --------- |
+| Medium     | [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum/problem) | [recursive_digit_sum.py](/problem_solving/algorithms/recursion/medium/recursive_digit_sum.py) | 30             | 30        |
 
 ### Game Theory
 | Difficulty | Problem | Solution | Score Obtained | Max Score |

@@ -261,7 +261,12 @@
     },
     "recursion": {
       "easy": {},
-      "medium": {},
+      "medium": {
+        "recursive_digit_sum": [
+          30,
+          30
+        ]
+      },
       "hard": {}
     },
     "game_theory": {
