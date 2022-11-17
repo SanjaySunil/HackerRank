@@ -8,8 +8,8 @@
 <h3 align='center'>Solutions to the <a href="https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving">Problem Solving</a> topic on <a href="https://www.hackerrank.com/">HackerRank</a></h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-55-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-841-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-56-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-851-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -59,6 +59,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)                                     | [sock_merchant.py](/problem_solving/algorithms/implementation/easy/sock_merchant.py)                                     | 10             | 10        |
 | Easy       | [Jumping On the Clouds Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | [jumping_on_the_clouds_revisited.py](/problem_solving/algorithms/implementation/easy/jumping_on_the_clouds_revisited.py) | 15             | 15        |
 | Easy       | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)                                 | [picking_numbers.py](/problem_solving/algorithms/implementation/easy/picking_numbers.py)                                 | 20             | 20        |
+| Easy       | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)                                       | [drawing_book.py](/problem_solving/algorithms/implementation/easy/drawing_book.py)                                       | 10             | 10        |
 | Medium     | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)                     | [extra_long_factorials.py](/problem_solving/algorithms/implementation/medium/extra_long_factorials.py)                   | 20             | 20        |
 
 ### Strings

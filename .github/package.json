@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.mjs",
   "dependencies": {
-    "inquirer": "^9.1.2",
+    "inquirer": "^9.1.4",
     "markdown-table": "^3.0.2",
     "readme-components": "^1.2.0"
   },

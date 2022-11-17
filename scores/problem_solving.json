@@ -145,6 +145,10 @@
         "picking_numbers": [
           20,
           20
+        ],
+        "drawing_book": [
+          10,
+          10
         ]
       },
       "medium": {
