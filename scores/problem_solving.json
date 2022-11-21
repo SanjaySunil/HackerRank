@@ -301,7 +301,12 @@
           15
         ]
       },
-      "medium": {},
+      "medium": {
+        "sparse-arrays": [
+          25,
+          25
+        ]
+      },
       "hard": {}
     },
     "linked_list": {

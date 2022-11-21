@@ -8,8 +8,8 @@
 <h3 align='center'>Solutions to the <a href="https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving">Problem Solving</a> topic on <a href="https://www.hackerrank.com/">HackerRank</a></h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-57-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-881-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-58-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-906-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -132,6 +132,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Array Ds](https://www.hackerrank.com/challenges/array-ds/problem)                       | [array_ds.py](/problem_solving/data_structures/arrays/easy/array_ds.py)                       | 10             | 10        |
 | Easy       | [Array Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) | [array_left_rotation.py](/problem_solving/data_structures/arrays/easy/array_left_rotation.py) | 20             | 20        |
 | Easy       | [2d Array](https://www.hackerrank.com/challenges/2d-array/problem)                       | [2d_array.py](/problem_solving/data_structures/arrays/easy/2d_array.py)                       | 15             | 15        |
+| Medium     | [Sparse-arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)             | [sparse-arrays.py](/problem_solving/data_structures/arrays/medium/sparse-arrays.py)           | 25             | 25        |
 
 ### Linked List
 | Difficulty | Problem                                                                                                                  | Solution                                                                                                                           | Score Obtained | Max Score |
