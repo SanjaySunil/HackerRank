@@ -8,8 +8,8 @@
 <h3 align='center'>Solutions to the <a href="https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving">Problem Solving</a> topic on <a href="https://www.hackerrank.com/">HackerRank</a></h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-59-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-926-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-60-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-946-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -61,6 +61,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)                                 | [picking_numbers.py](/problem_solving/algorithms/implementation/easy/picking_numbers.py)                                 | 20             | 20        |
 | Easy       | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)                                       | [drawing_book.py](/problem_solving/algorithms/implementation/easy/drawing_book.py)                                       | 10             | 10        |
 | Easy       | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)                 | [circular_array_rotation.py](/problem_solving/algorithms/implementation/easy/circular_array_rotation.py)                 | 20             | 20        |
+| Easy       | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)                             | [minimum_distances.py](/problem_solving/algorithms/implementation/easy/minimum_distances.py)                             | 20             | 20        |
 | Medium     | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)                     | [extra_long_factorials.py](/problem_solving/algorithms/implementation/medium/extra_long_factorials.py)                   | 20             | 20        |
 
 ### Strings

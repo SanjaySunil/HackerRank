@@ -153,6 +153,10 @@
         "circular_array_rotation": [
           20,
           20
+        ],
+        "minimum_distances": [
+          20,
+          20
         ]
       },
       "medium": {

@@ -45,6 +45,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)                                 | [picking_numbers.py](/problem_solving/algorithms/implementation/easy/picking_numbers.py)                                 | 20             | 20        |
 | Easy       | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)                                       | [drawing_book.py](/problem_solving/algorithms/implementation/easy/drawing_book.py)                                       | 10             | 10        |
 | Easy       | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)                 | [circular_array_rotation.py](/problem_solving/algorithms/implementation/easy/circular_array_rotation.py)                 | 20             | 20        |
+| Easy       | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)                             | [minimum_distances.py](/problem_solving/algorithms/implementation/easy/minimum_distances.py)                             | 20             | 20        |
 | Medium     | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)                     | [extra_long_factorials.py](/problem_solving/algorithms/implementation/medium/extra_long_factorials.py)                   | 20             | 20        |
 
 ### Strings
