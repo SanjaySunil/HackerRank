@@ -149,6 +149,10 @@
         "drawing_book": [
           10,
           10
+        ],
+        "circular_array_rotation": [
+          20,
+          20
         ]
       },
       "medium": {
