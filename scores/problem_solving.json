@@ -230,6 +230,10 @@
         "closest_numbers": [
           35,
           35
+        ],
+        "insertionsort1": [
+          30,
+          30
         ]
       },
       "medium": {},
