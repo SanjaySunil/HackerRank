@@ -222,6 +222,10 @@
         "tutorial-intro": [
           30,
           30
+        ],
+        "find_the_median": [
+          35,
+          35
         ]
       },
       "medium": {},
