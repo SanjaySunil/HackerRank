@@ -2,3 +2,4 @@
 | ---------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------- | --------- |
 | Easy       | [Tutorial-intro](https://www.hackerrank.com/challenges/tutorial-intro/problem)   | [tutorial-intro.py](/problem_solving/algorithms/sorting/easy/tutorial-intro.py)   | 30             | 30        |
 | Easy       | [Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem) | [find_the_median.py](/problem_solving/algorithms/sorting/easy/find_the_median.py) | 35             | 35        |
+| Easy       | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem) | [closest_numbers.py](/problem_solving/algorithms/sorting/easy/closest_numbers.py) | 35             | 35        |

@@ -8,8 +8,8 @@
 <h3 align='center'>Solutions to the <a href="https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving">Problem Solving</a> topic on <a href="https://www.hackerrank.com/">HackerRank</a></h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-61-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-981-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-62-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-1016-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -84,6 +84,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | ---------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -------------- | --------- |
 | Easy       | [Tutorial-intro](https://www.hackerrank.com/challenges/tutorial-intro/problem)   | [tutorial-intro.py](/problem_solving/algorithms/sorting/easy/tutorial-intro.py)   | 30             | 30        |
 | Easy       | [Find the Median](https://www.hackerrank.com/challenges/find-the-median/problem) | [find_the_median.py](/problem_solving/algorithms/sorting/easy/find_the_median.py) | 35             | 35        |
+| Easy       | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem) | [closest_numbers.py](/problem_solving/algorithms/sorting/easy/closest_numbers.py) | 35             | 35        |
 
 ### Search
 | Difficulty | Problem                                                                            | Solution                                                                           | Score Obtained | Max Score |

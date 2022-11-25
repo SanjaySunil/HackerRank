@@ -226,6 +226,10 @@
         "find_the_median": [
           35,
           35
+        ],
+        "closest_numbers": [
+          35,
+          35
         ]
       },
       "medium": {},
