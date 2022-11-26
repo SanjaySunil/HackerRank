@@ -8,8 +8,8 @@
 <h3 align='center'>Solutions to the <a href="https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving">Problem Solving</a> topic on <a href="https://www.hackerrank.com/">HackerRank</a></h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-63-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-1046-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-64-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-1061-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -62,6 +62,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Easy       | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)                                       | [drawing_book.py](/problem_solving/algorithms/implementation/easy/drawing_book.py)                                       | 10             | 10        |
 | Easy       | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)                 | [circular_array_rotation.py](/problem_solving/algorithms/implementation/easy/circular_array_rotation.py)                 | 20             | 20        |
 | Easy       | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)                             | [minimum_distances.py](/problem_solving/algorithms/implementation/easy/minimum_distances.py)                             | 20             | 20        |
+| Easy       | [Library-fine](https://www.hackerrank.com/challenges/library-fine/problem)                                       | [library-fine.py](/problem_solving/algorithms/implementation/easy/library-fine.py)                                       | 15             | 15        |
 | Medium     | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)                     | [extra_long_factorials.py](/problem_solving/algorithms/implementation/medium/extra_long_factorials.py)                   | 20             | 20        |
 
 ### Strings
