@@ -161,6 +161,10 @@
         "library-fine": [
           15,
           15
+        ],
+        "repeated_string": [
+          20,
+          20
         ]
       },
       "medium": {
