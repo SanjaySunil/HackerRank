@@ -113,8 +113,9 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | ---------- | ------- | -------- | -------------- | --------- |
 
 ### Debugging
-| Difficulty | Problem | Solution | Score Obtained | Max Score |
-| ---------- | ------- | -------- | -------------- | --------- |
+| Difficulty | Problem                                                                  | Solution                                                                    | Score Obtained | Max Score |
+| ---------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------- | -------------- | --------- |
+| Easy       | [Strings Xor](https://www.hackerrank.com/challenges/strings-xor/problem) | [strings_xor.py](/problem_solving/algorithms/debugging/easy/strings_xor.py) | 25             | 25        |
 
 ## Data Structures
 ### Arrays

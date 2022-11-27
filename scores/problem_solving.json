@@ -308,7 +308,12 @@
       "hard": {}
     },
     "debugging": {
-      "easy": {},
+      "easy": {
+        "strings_xor": [
+          25,
+          25
+        ]
+      },
       "medium": {},
       "hard": {}
     }

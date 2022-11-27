@@ -8,8 +8,8 @@
 <h3 align='center'>Solutions to the <a href="https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving">Problem Solving</a> topic on <a href="https://www.hackerrank.com/">HackerRank</a></h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-65-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-1081-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-66-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-1106-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -129,8 +129,9 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | ---------- | ------- | -------- | -------------- | --------- |
 
 ### Debugging
-| Difficulty | Problem | Solution | Score Obtained | Max Score |
-| ---------- | ------- | -------- | -------------- | --------- |
+| Difficulty | Problem                                                                  | Solution                                                                    | Score Obtained | Max Score |
+| ---------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------- | -------------- | --------- |
+| Easy       | [Strings Xor](https://www.hackerrank.com/challenges/strings-xor/problem) | [strings_xor.py](/problem_solving/algorithms/debugging/easy/strings_xor.py) | 25             | 25        |
 
 ## Data Structures
 ### Arrays
