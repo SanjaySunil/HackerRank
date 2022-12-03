@@ -165,6 +165,10 @@
         "repeated_string": [
           20,
           20
+        ],
+        "kaprekar_numbers": [
+          30,
+          30
         ]
       },
       "medium": {
