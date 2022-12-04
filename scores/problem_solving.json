@@ -169,6 +169,10 @@
         "kaprekar_numbers": [
           30,
           30
+        ],
+        "cavity_map": [
+          30,
+          30
         ]
       },
       "medium": {
