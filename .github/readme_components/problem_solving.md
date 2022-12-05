@@ -79,6 +79,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Difficulty | Problem                                                                            | Solution                                                                           | Score Obtained | Max Score |
 | ---------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------- | --------- |
 | Easy       | [Ice Cream Parlor](https://www.hackerrank.com/challenges/ice-cream-parlor/problem) | [ice_cream_parlor.py](/problem_solving/algorithms/search/easy/ice_cream_parlor.py) | 30             | 30        |
+| Easy       | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem)   | [missing_numbers.py](/problem_solving/algorithms/search/easy/missing_numbers.py)   | 45             | 45        |
 
 ### Graph Theory
 | Difficulty | Problem | Solution | Score Obtained | Max Score |

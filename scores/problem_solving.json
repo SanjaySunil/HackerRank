@@ -260,6 +260,10 @@
         "ice_cream_parlor": [
           30,
           30
+        ],
+        "missing_numbers": [
+          45,
+          45
         ]
       },
       "medium": {},

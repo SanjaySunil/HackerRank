@@ -8,8 +8,8 @@
 <h3 align='center'>Solutions to the <a href="https://www.hackerrank.com/domains/algorithms?badge_type=problem-solving">Problem Solving</a> topic on <a href="https://www.hackerrank.com/">HackerRank</a></h3>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-68-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Score-1166-yellow.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-69-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Score-1211-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
 <br/>
@@ -95,6 +95,7 @@ This repository contains my solutions for the HackerRank `Problem Solving` cours
 | Difficulty | Problem                                                                            | Solution                                                                           | Score Obtained | Max Score |
 | ---------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------- | --------- |
 | Easy       | [Ice Cream Parlor](https://www.hackerrank.com/challenges/ice-cream-parlor/problem) | [ice_cream_parlor.py](/problem_solving/algorithms/search/easy/ice_cream_parlor.py) | 30             | 30        |
+| Easy       | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem)   | [missing_numbers.py](/problem_solving/algorithms/search/easy/missing_numbers.py)   | 45             | 45        |
 
 ### Graph Theory
 | Difficulty | Problem | Solution | Score Obtained | Max Score |
